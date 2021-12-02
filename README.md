@@ -4,10 +4,10 @@
 
 I do things with React. I can manage state with Redux. I get stuff with Axios. 
 Things I like:
-⚛️ React 
-🇬🇧English
-📚Learning
-🍕Pizza
+- ⚛️ React 
+- 🇬🇧English
+- 📚Learning
+- 🍕Pizza
 
 Skills: REACT / JS / HTML / CSS
 
