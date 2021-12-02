@@ -1,15 +1,20 @@
 ### Hi there 👋, my name is Yevhen
-#### Junior React Developer 
+### Junior React Developer 
 ![Junior React Developer ](https://tsh.io/wp-content/uploads/2019/12/react-meme1_.png)
 
 I do things with React. I can manage state with Redux. I get stuff with Axios. 
+
+Skills: 
+- ⚛️ React 
+- 👨🏼‍💻 HTML/CSS/JS
+- 💫 Redux
+- ✅ Axios
+
 Things I like:
 - ⚛️ React 
 - 🇬🇧English
 - 📚Learning
 - 🍕Pizza
-
-Skills: REACT / JS / HTML / CSS
 
 ## Examples of work
 <img src="https://github.com/YevhenYevhen/YevhenYevhen/blob/main/readme.gif" />
